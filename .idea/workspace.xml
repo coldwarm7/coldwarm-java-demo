@@ -12,17 +12,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JustDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JustDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Demo/src/JustDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JoinDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/src/JoinDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-293">
@@ -54,8 +54,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Demo/src/JustDemo.java" />
         <option value="$PROJECT_DIR$/Demo/src/JoinDemo.java" />
+        <option value="$PROJECT_DIR$/Demo/src/JustDemo.java" />
       </list>
     </option>
   </component>
@@ -65,7 +65,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -131,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoinDemo">
+  <component name="RunManager" selected="Application.JustDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -247,8 +247,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.JoinDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JustDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JustDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JoinDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -265,16 +265,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523614698440</updated>
-      <workItem from="1523614701217" duration="2187000" />
+      <workItem from="1523614701217" duration="3157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2187000" />
+    <option name="totallyTimeSpent" value="3157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -324,14 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/JustDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo/src/JoinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-293">
@@ -339,6 +330,14 @@
           <folding>
             <element signature="e#0#779#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/JustDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
