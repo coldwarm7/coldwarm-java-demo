@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b5614ff-3d38-41a0-8de0-3b62daa82276" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo/src/LinkedList/FindKFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/AB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/AddNumberInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/EnglishSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/SingletDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/SingletonDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/aiqiyiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/aiqiyiTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/Test/kuaishouA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/tree/BinaryTreeByMyself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/tree/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/src/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/Test/meiTuanTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/src/Test/meiTuanTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,24 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeByMyself.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/src/tree/BinaryTreeByMyself.java">
+      <file leaf-file-name="meiTuanTest2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/src/Test/meiTuanTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-              <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/src/tree/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="399">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,15 +52,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingletonDemo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/src/Test/SingletonDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -129,15 +89,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aiqiyiTest2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="aiqiyiTest2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/src/Test/aiqiyiTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="228">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1147#1167#0" expanded="true" />
-                <element signature="e#1376#1385#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meiTuanTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/src/Test/meiTuanTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files (x86)/java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-196">
+              <caret line="61" column="73" lean-forward="true" selection-start-line="61" selection-start-column="73" selection-end-line="61" selection-end-column="73" />
+              <folding>
+                <element signature="e#6252#6253#0" expanded="true" />
+                <element signature="e#6320#6321#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,6 +143,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grow</find>
+      <find>resize</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -208,6 +197,8 @@
         <option value="$PROJECT_DIR$/Demo/src/Test/kuaishouA.java" />
         <option value="$PROJECT_DIR$/Demo/src/Test/aiqiyiTest.java" />
         <option value="$PROJECT_DIR$/Demo/src/Test/aiqiyiTest2.java" />
+        <option value="$PROJECT_DIR$/Demo/src/Test/meiTuanTest1.java" />
+        <option value="$PROJECT_DIR$/Demo/src/Test/meiTuanTest2.java" />
       </list>
     </option>
   </component>
@@ -220,7 +211,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -233,8 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,7 +261,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +270,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wemall_v1" />
+    <property name="last_opened_file_path" value="E:/springboot实战/尚硅谷Redis视频/课件+源码+工具/课程源码/redis_Sources/redis1122" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RunDashboard">
@@ -294,34 +285,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.aiqiyiTest2">
+  <component name="RunManager" selected="Application.meiTuanTest2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="FindKFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.FindKFromList" />
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.BinaryTree" />
       <module name="Demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.HashSetDemo" />
-      <module name="Demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test" />
       <module name="Demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -356,8 +336,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="kuaishouA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.kuaishouA" />
+    <configuration name="meiTuanTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.meiTuanTest1" />
+      <module name="Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="meiTuanTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.meiTuanTest2" />
       <module name="Demo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -701,19 +692,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.FindKFromList" />
-      <item itemvalue="Application.kuaishouA" />
       <item itemvalue="Application.aiqiyiTest" />
       <item itemvalue="Application.aiqiyiTest2" />
+      <item itemvalue="Application.meiTuanTest1" />
+      <item itemvalue="Application.BinaryTree" />
+      <item itemvalue="Application.meiTuanTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.meiTuanTest2" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.meiTuanTest1" />
         <item itemvalue="Application.aiqiyiTest2" />
         <item itemvalue="Application.aiqiyiTest" />
-        <item itemvalue="Application.kuaishouA" />
-        <item itemvalue="Application.FindKFromList" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -744,15 +735,19 @@
       <workItem from="1537877759774" duration="4249000" />
       <workItem from="1538130379131" duration="5619000" />
       <workItem from="1538280485107" duration="617000" />
-      <workItem from="1538987601063" duration="1014000" />
+      <workItem from="1538987601063" duration="2285000" />
+      <workItem from="1539085537659" duration="4925000" />
+      <workItem from="1539138029695" duration="1215000" />
+      <workItem from="1539325306290" duration="2158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95005000" />
+    <option name="totallyTimeSpent" value="104574000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -764,10 +759,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23991276" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3278867" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -802,27 +797,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Demo/src/sort/QuickSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/sort/BubbleSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/sort/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo/src/sort/SelectSortDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1028,31 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/tree/SingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,13 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1099,12 +1041,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/src/Test/aiqiyiTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1147#1167#0" expanded="true" />
-            <element signature="e#1376#1385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/tree/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/Test/meiTuanTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/Test/meiTuanTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="61" column="73" lean-forward="true" selection-start-line="61" selection-start-column="73" selection-end-line="61" selection-end-column="73" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
           </folding>
         </state>
       </provider>
